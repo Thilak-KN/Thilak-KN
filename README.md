@@ -28,7 +28,7 @@
   <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
     <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=substancepainter&sort= > <img width ='32px' src ='https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg'> </a>
 <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://www.youtube.com/c/shiitttshow > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+
 
 
 
@@ -36,4 +36,5 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.deviantart.com/blendart'> <img width = '32px' align= 'center' src="https://a.deviantart.net/avatars-big/b/l/blendart.jpg"/></a> 
 <a href = 'https://www.github.com/shitt-show'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href= https://www.youtube.com/c/shiitttshow > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 <br>
