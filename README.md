@@ -11,11 +11,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on ~
-
 - 🌱 I’m currently learning B.Tech Computer Science  
 
 - 👯 I’m looking to collaborate on ~
+  
+- 🔭 I’m currently working on ~
 
 - 💬 Talk to me about coding and 3d stuff 
 
