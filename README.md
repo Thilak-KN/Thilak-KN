@@ -28,7 +28,7 @@
   <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
     <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=substancepainter&sort= > <img width ='32px' src ='https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg'> </a>
 <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+<a href= https://www.youtube.com/c/shiitttshow > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 
 
 
