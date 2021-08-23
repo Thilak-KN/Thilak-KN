@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning B.Tech Computer Science  
+- 🌱 I’m currently pursuing B.Tech Computer Science & Business Systems  
 
 - 👯 I’m looking to collaborate on ~
   
