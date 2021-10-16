@@ -24,7 +24,7 @@
 <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
   <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
   <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
+<a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' src ='https://i.redd.it/tu3gt6ysfxq71.png'> </a>
   <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
     <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=substancepainter&sort= > <img width ='32px' src ='https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg'> </a>
 <a href= https://github.com/shitt-show?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
