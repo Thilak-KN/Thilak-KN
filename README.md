@@ -12,6 +12,7 @@
 
 -  Undergrad ^_^  
 -  Area of Interest : Programming & 3d-stuff
+-  GithubGist : https://gist.github.com/Thilak-KN 
   
 <h2> My Social Handles : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"> </h2>
 <a href = 'https://www.deviantart.com/blendart'> <img width = '32px' align= 'center' src="https://a.deviantart.net/avatars-big/b/l/blendart.jpg"/></a> &emsp;
