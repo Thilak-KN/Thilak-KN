@@ -3,17 +3,15 @@
 
 
 </p>
-<div size='20px'> I'm Thilak. I do 3d and code.
-</div>
+
 
 <h2> About Me </h2>
 
 
 
 
-- 🌱 I’m currently pursuing B.Tech Computer Science & Business Systems  
+- 🌱 Undergrad ^_^  
 
-- 💬 Talk to me about Coding and 3d-stuff 
   
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"> </h2>
 <a href = 'https://www.deviantart.com/blendart'> <img width = '32px' align= 'center' src="https://a.deviantart.net/avatars-big/b/l/blendart.jpg"/></a> &emsp;
