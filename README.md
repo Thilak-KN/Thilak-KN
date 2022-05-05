@@ -12,6 +12,7 @@
 
 -  Undergrad ^_^  
 -  Area of Interest : Programming & 3d-stuff
+-  Open Source is great but I've uploaded only Executables and Releases of my works here : (
 -  GithubGist : https://gist.github.com/Thilak-KN 
   
 <h2> My Social Handles : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"> </h2>
