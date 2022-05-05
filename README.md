@@ -13,7 +13,7 @@
 -  Undergrad ^_^  
 -  Area of Interest : Programming & 3d-stuff
   
-<h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"> </h2>
+<h2> My Social Handles : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"> </h2>
 <a href = 'https://www.deviantart.com/blendart'> <img width = '32px' align= 'center' src="https://a.deviantart.net/avatars-big/b/l/blendart.jpg"/></a> &emsp;
-<a href= https://www.youtube.com/c/shiitttshow > <img width ='32px' align='center' src ='https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg'> </a> &emsp;
+<a href= https://www.youtube.com/c/shiitttshow > <img width ='100px' align='center' src ='https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg'> </a> &emsp;
 <br>
