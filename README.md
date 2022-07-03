@@ -14,7 +14,7 @@
 -  Area of Interest : Programming, 3D Art & Computer Graphics, Application and 3D Development
 -  Open Source is great but I've uploaded only Executables and Releases of my works here : (
 -  GithubGist : https://gist.github.com/Thilak-KN 
--  Hey check this out, I got featured in JioGlass Developer Community for developing a Mixed Reality App with their SDK 
+-  Hey, check this out, I got featured in JioGlass Developer Community for developing a Mixed Reality App with their SDK <a href="https://www.linkedin.com/posts/jioglass-developers_app-of-the-month-activity-6942811785833914368-P5ir/">[Linked-in]</a>
   
 <h2> My Social Handles : </h2>
 <a href = 'https://www.deviantart.com/blendart'> <img width = '32px' align= 'center' src="https://a.deviantart.net/avatars-big/b/l/blendart.jpg"/></a> &emsp;
