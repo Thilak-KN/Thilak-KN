@@ -11,9 +11,9 @@
 
 
 -  Undergrad ^_^  
--  Area of Interest : Programming, 3D Art & Computer Graphics, Application and 3D Development
+-  Area of Interest : Programming, 3D Art (3D Modeling & Photogrammetry, Texturing, Rigging, Animation, Rendering & Post-processing), Computer Graphics, Application & 3D Development, Augmented Reality(AR), Virutal Reality(VR), Mixed Reality(MR)
 -  Snippets & Scripts : https://gist.github.com/Thilak-KN 
--  Hey, check this out, I got featured in JioGlass Developer Community for developing a Mixed Reality App with their SDK <a href="https://www.linkedin.com/posts/jioglass-developers_app-of-the-month-activity-6942811785833914368-P5ir/">[Linked-in]</a>
+-  Hey, check this out, I got featured in JioGlass Developer Community for developing & publishing a Mixed Reality App with their SDK <a href="https://www.linkedin.com/posts/jioglass-developers_app-of-the-month-activity-6942811785833914368-P5ir/">[Linked-in]</a>
   
 <h2> My Social Handles </h2>
 <a href = 'https://www.deviantart.com/blendart'> <img width = '48px' align= 'center' src="https://a.deviantart.net/avatars-big/b/l/blendart.jpg"/></a> &emsp;
