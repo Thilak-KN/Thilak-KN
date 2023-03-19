@@ -28,5 +28,5 @@
 
 <details>
   <summary><h2>Contact Me :mailbox_with_no_mail:</h2></summary>
-  <a href="mailto:thilak_kn@protonmail.com">thilak_kn@protonmail.com</a>
+  <blockquote><a href="mailto:thilak_kn@protonmail.com">thilak_kn@protonmail.com</a></blockquote>
 </details>
