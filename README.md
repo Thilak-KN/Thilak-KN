@@ -11,7 +11,7 @@
 
 
 -  Undergrad ^_^  
--  Interests : C, C++, Python Programming, Core Java, 3D Art, Computer Graphics, Game & 3D Application Development, Immersive Computing (AR, VR, MR)
+-  Interests : C, C++, Python Programming, Core Java, 3D Art, Computer Graphics, Game & 3D Application Development, Immersive Computing (AR, VR, MR), Spring Boot, Qt C++ framework
 -  Snippets & Scripts : https://gist.github.com/Thilak-KN 
 -  Hey, check this out, I got featured in JioGlass Developers Community for developing & publishing a Mixed Reality App with their SDK <a href="https://www.linkedin.com/posts/jioglass-developers_app-of-the-month-activity-6942811785833914368-P5ir/">[Linkedin]</a>
 
